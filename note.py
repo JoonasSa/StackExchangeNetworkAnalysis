@@ -1,3 +1,0 @@
-from networkx import networkx as net
-
-# TODO: everything...
