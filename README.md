@@ -29,3 +29,9 @@ Just access the virtual environment by running `source venv/bin/activate` in the
 Run `jupyter notebook` to launch notebook. The notebook should be running on _localhost:8888_.
 
 You can also run the main file with `python3 main.py`. This might not be needed for the project.
+
+# StackOverflow Data
+
+Extract the desired stackoverflow zip data to `data/<dir_name>/`.
+
+This data can be read to the program by `data_reader.get_stackoverflow_data`. Check the example.

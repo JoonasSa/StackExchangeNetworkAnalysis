@@ -1,0 +1,850 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tags>
+  <row Id="3" TagName="mobile" Count="35" ExcerptPostId="612" WikiPostId="611" />
+  <row Id="4" TagName="development" Count="403" ExcerptPostId="1545" WikiPostId="1544" />
+  <row Id="5" TagName="wallet" Count="1734" ExcerptPostId="610" WikiPostId="609" />
+  <row Id="6" TagName="backup" Count="154" ExcerptPostId="622" WikiPostId="621" />
+  <row Id="8" TagName="economy" Count="63" ExcerptPostId="634" WikiPostId="633" />
+  <row Id="10" TagName="mining-pools" Count="702" ExcerptPostId="395" WikiPostId="394" />
+  <row Id="11" TagName="block-header" Count="82" ExcerptPostId="680" WikiPostId="679" />
+  <row Id="15" TagName="user-base" Count="19" ExcerptPostId="1685" WikiPostId="1684" />
+  <row Id="17" TagName="security" Count="632" ExcerptPostId="655" WikiPostId="654" />
+  <row Id="18" TagName="encryption" Count="129" ExcerptPostId="668" WikiPostId="667" />
+  <row Id="19" TagName="gpu" Count="91" ExcerptPostId="614" WikiPostId="613" />
+  <row Id="25" TagName="address" Count="757" ExcerptPostId="604" WikiPostId="603" />
+  <row Id="28" TagName="blockchain" Count="2233" ExcerptPostId="298" WikiPostId="297" />
+  <row Id="29" TagName="cpu" Count="41" ExcerptPostId="979" WikiPostId="978" />
+  <row Id="30" TagName="linux" Count="145" ExcerptPostId="672" WikiPostId="671" />
+  <row Id="31" TagName="deflation" Count="20" ExcerptPostId="1553" WikiPostId="1552" />
+  <row Id="35" TagName="economics" Count="156" ExcerptPostId="966" WikiPostId="965" />
+  <row Id="37" TagName="future-proof" Count="28" ExcerptPostId="959" WikiPostId="958" />
+  <row Id="39" TagName="money-supply" Count="84" ExcerptPostId="678" WikiPostId="677" />
+  <row Id="40" TagName="inflation" Count="28" ExcerptPostId="972" WikiPostId="971" />
+  <row Id="41" TagName="fpga" Count="30" ExcerptPostId="626" WikiPostId="625" />
+  <row Id="42" TagName="asic" Count="194" ExcerptPostId="628" WikiPostId="627" />
+  <row Id="43" TagName="currencies" Count="288" ExcerptPostId="1003" WikiPostId="1002" />
+  <row Id="44" TagName="satoshi-nakamoto" Count="48" ExcerptPostId="470" WikiPostId="469" />
+  <row Id="45" TagName="loss" Count="9" />
+  <row Id="47" TagName="exchanges" Count="678" ExcerptPostId="598" WikiPostId="597" />
+  <row Id="48" TagName="ubuntu" Count="141" ExcerptPostId="606" WikiPostId="605" />
+  <row Id="50" TagName="commerce" Count="25" ExcerptPostId="602" WikiPostId="601" />
+  <row Id="52" TagName="namecoin" Count="84" ExcerptPostId="468" WikiPostId="467" />
+  <row Id="53" TagName="businesses" Count="3" />
+  <row Id="54" TagName="legal" Count="177" ExcerptPostId="653" WikiPostId="652" />
+  <row Id="56" TagName="transactions" Count="2523" ExcerptPostId="466" WikiPostId="465" />
+  <row Id="57" TagName="client" Count="615" ExcerptPostId="252" WikiPostId="251" />
+  <row Id="58" TagName="confirmations" Count="217" ExcerptPostId="968" WikiPostId="967" />
+  <row Id="61" TagName="banks" Count="74" ExcerptPostId="986" WikiPostId="985" />
+  <row Id="62" TagName="websites" Count="75" ExcerptPostId="1691" WikiPostId="1690" />
+  <row Id="64" TagName="mtgox" Count="203" ExcerptPostId="997" WikiPostId="996" />
+  <row Id="65" TagName="poclbm" Count="12" />
+  <row Id="66" TagName="windows" Count="89" ExcerptPostId="975" WikiPostId="974" />
+  <row Id="69" TagName="attack" Count="129" ExcerptPostId="1047" WikiPostId="1046" />
+  <row Id="73" TagName="android" Count="79" ExcerptPostId="42165" WikiPostId="42164" />
+  <row Id="74" TagName="ios" Count="27" ExcerptPostId="1570" WikiPostId="1569" />
+  <row Id="75" TagName="reverse-transaction" Count="27" ExcerptPostId="670" WikiPostId="669" />
+  <row Id="76" TagName="chargeback" Count="15" ExcerptPostId="630" WikiPostId="629" />
+  <row Id="77" TagName="eligius" Count="8" ExcerptPostId="999" WikiPostId="998" />
+  <row Id="78" TagName="marketplace" Count="27" />
+  <row Id="79" TagName="news" Count="24" ExcerptPostId="1549" WikiPostId="1548" />
+  <row Id="80" TagName="alternatives" Count="177" ExcerptPostId="600" WikiPostId="599" />
+  <row Id="81" TagName="value" Count="102" ExcerptPostId="1049" WikiPostId="1048" />
+  <row Id="82" TagName="weaknesses" Count="46" ExcerptPostId="624" WikiPostId="623" />
+  <row Id="83" TagName="contribution" Count="2" />
+  <row Id="85" TagName="escrow" Count="40" ExcerptPostId="981" WikiPostId="980" />
+  <row Id="86" TagName="trust" Count="66" ExcerptPostId="951" WikiPostId="950" />
+  <row Id="87" TagName="finance" Count="23" />
+  <row Id="88" TagName="government" Count="36" ExcerptPostId="1017" WikiPostId="1016" />
+  <row Id="89" TagName="trading" Count="302" ExcerptPostId="649" WikiPostId="648" />
+  <row Id="90" TagName="merged-mining" Count="37" ExcerptPostId="943" WikiPostId="942" />
+  <row Id="93" TagName="options" Count="8" ExcerptPostId="1007" WikiPostId="1006" />
+  <row Id="95" TagName="politics" Count="15" />
+  <row Id="96" TagName="services" Count="75" />
+  <row Id="98" TagName="decentralization" Count="94" ExcerptPostId="1001" WikiPostId="1000" />
+  <row Id="99" TagName="network" Count="319" ExcerptPostId="1543" WikiPostId="1542" />
+  <row Id="100" TagName="doublespend" Count="215" ExcerptPostId="632" WikiPostId="631" />
+  <row Id="101" TagName="money-laundering" Count="22" ExcerptPostId="970" WikiPostId="969" />
+  <row Id="104" TagName="satoshi" Count="41" ExcerptPostId="616" WikiPostId="615" />
+  <row Id="105" TagName="diablominer" Count="10" ExcerptPostId="983" WikiPostId="982" />
+  <row Id="107" TagName="community" Count="22" ExcerptPostId="1547" WikiPostId="1546" />
+  <row Id="109" TagName="virus" Count="10" ExcerptPostId="977" WikiPostId="976" />
+  <row Id="110" TagName="marketing" Count="8" />
+  <row Id="112" TagName="performance" Count="33" />
+  <row Id="113" TagName="academic-research" Count="35" ExcerptPostId="1556" WikiPostId="1555" />
+  <row Id="116" TagName="cryptography" Count="175" ExcerptPostId="1574" WikiPostId="1573" />
+  <row Id="118" TagName="safety" Count="25" />
+  <row Id="125" TagName="payment" Count="185" ExcerptPostId="1697" WikiPostId="1696" />
+  <row Id="126" TagName="investing" Count="58" ExcerptPostId="682" WikiPostId="681" />
+  <row Id="127" TagName="speculation" Count="24" ExcerptPostId="676" WikiPostId="675" />
+  <row Id="131" TagName="difficulty" Count="281" ExcerptPostId="1009" WikiPostId="1008" />
+  <row Id="132" TagName="fraud" Count="109" ExcerptPostId="949" WikiPostId="948" />
+  <row Id="133" TagName="protocol" Count="348" ExcerptPostId="657" WikiPostId="656" />
+  <row Id="135" TagName="shopping-cart-interface" Count="8" />
+  <row Id="136" TagName="ecommerce" Count="38" ExcerptPostId="1013" WikiPostId="1012" />
+  <row Id="139" TagName="bitcoind" Count="1754" ExcerptPostId="957" WikiPostId="956" />
+  <row Id="140" TagName="installation" Count="53" ExcerptPostId="1568" WikiPostId="1567" />
+  <row Id="142" TagName="glbse" Count="6" ExcerptPostId="3243" WikiPostId="3242" />
+  <row Id="144" TagName="irc" Count="4" ExcerptPostId="1005" WikiPostId="1004" />
+  <row Id="147" TagName="qrcode" Count="38" ExcerptPostId="1011" WikiPostId="1010" />
+  <row Id="148" TagName="script" Count="334" ExcerptPostId="651" WikiPostId="650" />
+  <row Id="150" TagName="arbitrage" Count="44" ExcerptPostId="945" WikiPostId="944" />
+  <row Id="151" TagName="technical-analysis" Count="17" ExcerptPostId="10674" WikiPostId="10673" />
+  <row Id="157" TagName="paypal" Count="31" ExcerptPostId="988" WikiPostId="987" />
+  <row Id="158" TagName="physical-coins" Count="19" ExcerptPostId="955" WikiPostId="954" />
+  <row Id="160" TagName="vanity-address" Count="62" ExcerptPostId="1030" WikiPostId="1029" />
+  <row Id="163" TagName="testing" Count="41" ExcerptPostId="3795" WikiPostId="3794" />
+  <row Id="164" TagName="alert-system" Count="9" ExcerptPostId="947" WikiPostId="946" />
+  <row Id="165" TagName="tools" Count="11" />
+  <row Id="166" TagName="history" Count="86" ExcerptPostId="3784" WikiPostId="3783" />
+  <row Id="167" TagName="forum" Count="9" ExcerptPostId="1572" WikiPostId="1571" />
+  <row Id="172" TagName="e-wallet" Count="105" ExcerptPostId="1051" WikiPostId="1050" />
+  <row Id="173" TagName="receiving" Count="62" />
+  <row Id="174" TagName="algorithms" Count="100" ExcerptPostId="1800" WikiPostId="1799" />
+  <row Id="176" TagName="solidcoin" Count="2" />
+  <row Id="178" TagName="spending" Count="33" />
+  <row Id="179" TagName="fragmentation" Count="4" ExcerptPostId="66315" WikiPostId="66314" />
+  <row Id="180" TagName="business" Count="29" />
+  <row Id="184" TagName="price-volatility" Count="50" ExcerptPostId="30827" WikiPostId="30826" />
+  <row Id="185" TagName="tradehill" Count="5" ExcerptPostId="3817" WikiPostId="3816" />
+  <row Id="188" TagName="visa" Count="8" />
+  <row Id="193" TagName="blockchain-fork" Count="320" ExcerptPostId="1701" WikiPostId="1700" />
+  <row Id="195" TagName="raw-data" Count="88" ExcerptPostId="1541" WikiPostId="1540" />
+  <row Id="196" TagName="standard" Count="22" ExcerptPostId="1537" WikiPostId="1536" />
+  <row Id="201" TagName="adoption" Count="43" ExcerptPostId="21077" WikiPostId="21076" />
+  <row Id="205" TagName="tenebrix" Count="4" />
+  <row Id="206" TagName="theory" Count="43" />
+  <row Id="210" TagName="botnets" Count="5" ExcerptPostId="1802" WikiPostId="1801" />
+  <row Id="212" TagName="compiling" Count="83" ExcerptPostId="46854" WikiPostId="46853" />
+  <row Id="213" TagName="webminer" Count="12" ExcerptPostId="1539" WikiPostId="1538" />
+  <row Id="214" TagName="project" Count="11" />
+  <row Id="216" TagName="futures" Count="11" ExcerptPostId="66318" WikiPostId="66317" />
+  <row Id="217" TagName="block" Count="471" ExcerptPostId="3790" WikiPostId="3789" />
+  <row Id="219" TagName="mac" Count="120" ExcerptPostId="1699" WikiPostId="1698" />
+  <row Id="221" TagName="terminology" Count="122" ExcerptPostId="24273" WikiPostId="24272" />
+  <row Id="223" TagName="traceability" Count="46" />
+  <row Id="224" TagName="charity" Count="9" ExcerptPostId="1806" WikiPostId="1805" />
+  <row Id="225" TagName="pool-hopping" Count="6" ExcerptPostId="1695" WikiPostId="1694" />
+  <row Id="229" TagName="open-source" Count="36" ExcerptPostId="1808" WikiPostId="1807" />
+  <row Id="230" TagName="encoding" Count="20" />
+  <row Id="231" TagName="learning" Count="20" />
+  <row Id="232" TagName="litecoin" Count="480" ExcerptPostId="7476" WikiPostId="7475" />
+  <row Id="233" TagName="phoenix" Count="8" />
+  <row Id="235" TagName="promotion" Count="6" />
+  <row Id="236" TagName="media" Count="5" />
+  <row Id="238" TagName="fallback-nodes" Count="9" ExcerptPostId="4282" WikiPostId="4281" />
+  <row Id="239" TagName="testnet" Count="254" ExcerptPostId="7412" WikiPostId="7411" />
+  <row Id="242" TagName="tcp" Count="11" ExcerptPostId="1885" WikiPostId="1884" />
+  <row Id="243" TagName="verification" Count="67" />
+  <row Id="244" TagName="automation" Count="11" />
+  <row Id="249" TagName="wire-transfers" Count="27" />
+  <row Id="250" TagName="contracts" Count="43" />
+  <row Id="253" TagName="genesis-block" Count="105" ExcerptPostId="22971" WikiPostId="22970" />
+  <row Id="256" TagName="intersango" Count="4" />
+  <row Id="257" TagName="live-data" Count="22" />
+  <row Id="260" TagName="raw" Count="15" />
+  <row Id="261" TagName="sending" Count="97" />
+  <row Id="262" TagName="http" Count="10" ExcerptPostId="3807" WikiPostId="3806" />
+  <row Id="264" TagName="donation" Count="18" ExcerptPostId="46860" WikiPostId="46859" />
+  <row Id="271" TagName="bamt" Count="3" ExcerptPostId="3805" WikiPostId="3804" />
+  <row Id="272" TagName="storage" Count="50" ExcerptPostId="70184" WikiPostId="70183" />
+  <row Id="275" TagName="bitcoinj" Count="225" ExcerptPostId="2349" WikiPostId="2348" />
+  <row Id="276" TagName="thin-clients" Count="49" ExcerptPostId="3957" WikiPostId="3956" />
+  <row Id="278" TagName="java" Count="107" ExcerptPostId="3811" WikiPostId="3810" />
+  <row Id="280" TagName="ecdsa" Count="121" ExcerptPostId="3799" WikiPostId="3798" />
+  <row Id="281" TagName="signature" Count="240" ExcerptPostId="13668" WikiPostId="13667" />
+  <row Id="284" TagName="domain-registering" Count="12" />
+  <row Id="290" TagName="bots" Count="30" ExcerptPostId="3815" WikiPostId="3814" />
+  <row Id="291" TagName="trade" Count="33" />
+  <row Id="293" TagName="charts" Count="55" ExcerptPostId="22034" WikiPostId="22033" />
+  <row Id="299" TagName="privacy" Count="270" ExcerptPostId="42285" WikiPostId="42284" />
+  <row Id="300" TagName="data-security" Count="22" />
+  <row Id="301" TagName="daemon" Count="56" ExcerptPostId="11904" WikiPostId="11903" />
+  <row Id="302" TagName="getwork" Count="47" ExcerptPostId="3792" WikiPostId="3791" />
+  <row Id="303" TagName="private-key" Count="532" ExcerptPostId="7424" WikiPostId="7423" />
+  <row Id="312" TagName="json-rpc" Count="555" ExcerptPostId="3786" WikiPostId="3785" />
+  <row Id="313" TagName="server" Count="105" />
+  <row Id="315" TagName="scalability" Count="114" ExcerptPostId="21085" WikiPostId="21084" />
+  <row Id="322" TagName="p2pool" Count="86" ExcerptPostId="3903" WikiPostId="3902" />
+  <row Id="325" TagName="api" Count="563" ExcerptPostId="3797" WikiPostId="3796" />
+  <row Id="330" TagName="open-transactions" Count="12" />
+  <row Id="334" TagName="keypool" Count="27" />
+  <row Id="335" TagName="voting" Count="13" />
+  <row Id="336" TagName="sell-bitcoins" Count="99" ExcerptPostId="12426" WikiPostId="12425" />
+  <row Id="338" TagName="taxes" Count="74" ExcerptPostId="42529" WikiPostId="42528" />
+  <row Id="342" TagName="library" Count="32" />
+  <row Id="343" TagName="buy-bitcoins" Count="264" ExcerptPostId="3819" WikiPostId="3818" />
+  <row Id="345" TagName="authentication" Count="23" />
+  <row Id="346" TagName="getmemorypool" Count="10" />
+  <row Id="347" TagName="timestamp" Count="67" ExcerptPostId="38259" WikiPostId="38258" />
+  <row Id="352" TagName="endianness" Count="8" />
+  <row Id="360" TagName="fractional-reserve" Count="8" />
+  <row Id="362" TagName="public-key" Count="281" ExcerptPostId="7422" WikiPostId="7421" />
+  <row Id="365" TagName="wiki" Count="12" />
+  <row Id="371" TagName="retail" Count="9" />
+  <row Id="375" TagName="blockchain.info" Count="642" ExcerptPostId="14318" WikiPostId="14317" />
+  <row Id="376" TagName="bip" Count="34" ExcerptPostId="5642" WikiPostId="5641" />
+  <row Id="378" TagName="zero-confirmation" Count="43" ExcerptPostId="38620" WikiPostId="38619" />
+  <row Id="383" TagName="networking" Count="20" />
+  <row Id="387" TagName="message" Count="44" ExcerptPostId="79846" WikiPostId="79845" />
+  <row Id="388" TagName="tor" Count="45" />
+  <row Id="389" TagName="linode" Count="3" />
+  <row Id="394" TagName="connection" Count="59" />
+  <row Id="395" TagName="peers" Count="74" />
+  <row Id="396" TagName="nodes" Count="221" ExcerptPostId="37713" WikiPostId="37712" />
+  <row Id="397" TagName="coin-age-priority" Count="22" ExcerptPostId="43851" WikiPostId="43850" />
+  <row Id="398" TagName="identity" Count="25" />
+  <row Id="410" TagName="pool-operators" Count="6" ExcerptPostId="3809" WikiPostId="3808" />
+  <row Id="411" TagName="hashpower" Count="230" ExcerptPostId="42505" WikiPostId="42504" />
+  <row Id="414" TagName="aml" Count="19" ExcerptPostId="3821" WikiPostId="3820" />
+  <row Id="417" TagName="earnings" Count="15" />
+  <row Id="420" TagName="hacking" Count="44" />
+  <row Id="421" TagName="dns" Count="22" ExcerptPostId="3803" WikiPostId="3802" />
+  <row Id="422" TagName="seed" Count="109" />
+  <row Id="424" TagName="theft" Count="49" ExcerptPostId="74675" WikiPostId="74674" />
+  <row Id="425" TagName="multibit" Count="261" ExcerptPostId="8522" WikiPostId="8521" />
+  <row Id="426" TagName="sha256" Count="97" ExcerptPostId="3801" WikiPostId="3800" />
+  <row Id="427" TagName="nonce" Count="87" />
+  <row Id="434" TagName="passphrase" Count="67" />
+  <row Id="435" TagName="cgminer" Count="157" ExcerptPostId="30534" WikiPostId="30533" />
+  <row Id="436" TagName="accounting" Count="21" />
+  <row Id="438" TagName="merchants" Count="54" />
+  <row Id="444" TagName="otc" Count="13" />
+  <row Id="448" TagName="bitcoinica" Count="6" />
+  <row Id="454" TagName="multi-sig-transactions" Count="222" ExcerptPostId="3717" WikiPostId="3716" />
+  <row Id="461" TagName="usa" Count="30" ExcerptPostId="43211" WikiPostId="43210" />
+  <row Id="464" TagName="money" Count="41" />
+  <row Id="465" TagName="port" Count="20" />
+  <row Id="466" TagName="database" Count="77" />
+  <row Id="467" TagName="user-data" Count="13" />
+  <row Id="469" TagName="divisibility" Count="28" ExcerptPostId="21211" WikiPostId="21210" />
+  <row Id="473" TagName="travel" Count="7" ExcerptPostId="37768" WikiPostId="37767" />
+  <row Id="474" TagName="message-signing" Count="59" ExcerptPostId="3901" WikiPostId="3900" />
+  <row Id="475" TagName="prediction" Count="9" />
+  <row Id="478" TagName="hash" Count="353" ExcerptPostId="42508" WikiPostId="42507" />
+  <row Id="479" TagName="credit-card" Count="23" ExcerptPostId="42836" WikiPostId="42835" />
+  <row Id="480" TagName="race-attack" Count="11" ExcerptPostId="74282" WikiPostId="74281" />
+  <row Id="483" TagName="bitinstant" Count="8" />
+  <row Id="487" TagName="blockchain-wallet-app" Count="26" />
+  <row Id="488" TagName="appstore" Count="5" ExcerptPostId="27011" WikiPostId="27010" />
+  <row Id="489" TagName="apple" Count="6" />
+  <row Id="492" TagName="import" Count="44" ExcerptPostId="59131" WikiPostId="59130" />
+  <row Id="495" TagName="firewall" Count="9" />
+  <row Id="496" TagName="proxy" Count="22" />
+  <row Id="497" TagName="pool-payout-methods" Count="47" />
+  <row Id="501" TagName="amazon-web-services" Count="14" ExcerptPostId="46852" WikiPostId="46851" />
+  <row Id="502" TagName="hosting" Count="15" />
+  <row Id="503" TagName="balance" Count="113" ExcerptPostId="11895" WikiPostId="11894" />
+  <row Id="506" TagName="two-factor" Count="12" ExcerptPostId="14441" WikiPostId="14440" />
+  <row Id="508" TagName="message-verification" Count="17" />
+  <row Id="509" TagName="bitcoin-core-accounts" Count="55" ExcerptPostId="24054" WikiPostId="24053" />
+  <row Id="510" TagName="website-integration" Count="51" ExcerptPostId="30798" WikiPostId="30797" />
+  <row Id="512" TagName="multi-factor" Count="2" />
+  <row Id="516" TagName="electrum" Count="426" ExcerptPostId="13924" WikiPostId="13923" />
+  <row Id="520" TagName="funds" Count="20" />
+  <row Id="525" TagName="withdrawal" Count="55" ExcerptPostId="14316" WikiPostId="14315" />
+  <row Id="528" TagName="wallet.dat" Count="179" ExcerptPostId="8010" WikiPostId="8009" />
+  <row Id="529" TagName="relay" Count="50" />
+  <row Id="530" TagName="commercial" Count="2" />
+  <row Id="533" TagName="canada" Count="14" />
+  <row Id="536" TagName="license" Count="5" />
+  <row Id="537" TagName="green-address" Count="18" />
+  <row Id="538" TagName="exchange-fees" Count="46" ExcerptPostId="8379" WikiPostId="8378" />
+  <row Id="539" TagName="solo-mining" Count="109" ExcerptPostId="18487" WikiPostId="18486" />
+  <row Id="541" TagName="bandwidth" Count="36" />
+  <row Id="542" TagName="market-depth" Count="14" />
+  <row Id="543" TagName="properties" Count="4" />
+  <row Id="550" TagName="butterfly-labs" Count="28" />
+  <row Id="552" TagName="debitcard" Count="15" />
+  <row Id="555" TagName="gambling" Count="25" />
+  <row Id="556" TagName="gaming" Count="10" />
+  <row Id="557" TagName="satoshidice" Count="18" />
+  <row Id="558" TagName="random" Count="22" />
+  <row Id="561" TagName="blockexplorer" Count="83" ExcerptPostId="5513" WikiPostId="5512" />
+  <row Id="565" TagName="coldstorage" Count="107" ExcerptPostId="42163" WikiPostId="42162" />
+  <row Id="568" TagName="risk-mitigation" Count="14" />
+  <row Id="570" TagName="proof-of-stake" Count="113" ExcerptPostId="66329" WikiPostId="66328" />
+  <row Id="571" TagName="secp256k1" Count="34" ExcerptPostId="77706" WikiPostId="77705" />
+  <row Id="573" TagName="europe" Count="16" />
+  <row Id="582" TagName="armory" Count="115" ExcerptPostId="37709" WikiPostId="37708" />
+  <row Id="585" TagName="bitcoin-foundation" Count="9" ExcerptPostId="25593" WikiPostId="25592" />
+  <row Id="587" TagName="job" Count="6" ExcerptPostId="24036" WikiPostId="24035" />
+  <row Id="591" TagName="market" Count="70" />
+  <row Id="596" TagName="change" Count="96" ExcerptPostId="16974" WikiPostId="16973" />
+  <row Id="598" TagName="synchronization" Count="308" ExcerptPostId="4968" WikiPostId="4967" />
+  <row Id="601" TagName="solution-withholding" Count="5" />
+  <row Id="603" TagName="coinbase.com" Count="192" ExcerptPostId="13474" WikiPostId="13473" />
+  <row Id="605" TagName="silk-road" Count="6" />
+  <row Id="608" TagName="energy-consumption" Count="46" />
+  <row Id="611" TagName="wikileaks" Count="2" />
+  <row Id="612" TagName="ecb" Count="2" ExcerptPostId="22965" WikiPostId="22964" />
+  <row Id="613" TagName="regulation" Count="30" />
+  <row Id="616" TagName="transaction-fees" Count="691" ExcerptPostId="8377" WikiPostId="8376" />
+  <row Id="624" TagName="discovery" Count="4" />
+  <row Id="625" TagName="local" Count="11" />
+  <row Id="630" TagName="coin-age" Count="1" ExcerptPostId="5587" WikiPostId="5586" />
+  <row Id="637" TagName="throttling" Count="3" />
+  <row Id="640" TagName="base58" Count="35" />
+  <row Id="641" TagName="lost-transactions" Count="39" />
+  <row Id="642" TagName="vanitygen" Count="46" ExcerptPostId="5955" WikiPostId="5954" />
+  <row Id="643" TagName="colored-coins" Count="32" />
+  <row Id="644" TagName="merkle-tree" Count="110" ExcerptPostId="37715" WikiPostId="37714" />
+  <row Id="645" TagName="movecmd" Count="6" ExcerptPostId="5723" WikiPostId="5722" />
+  <row Id="646" TagName="logging" Count="15" />
+  <row Id="648" TagName="argentina" Count="3" />
+  <row Id="649" TagName="bitcointalk" Count="7" />
+  <row Id="650" TagName="c++" Count="47" ExcerptPostId="11900" WikiPostId="11899" />
+  <row Id="651" TagName="c#" Count="51" ExcerptPostId="11902" WikiPostId="11901" />
+  <row Id="656" TagName="base58checked" Count="14" />
+  <row Id="657" TagName="orphaned-blocks" Count="50" ExcerptPostId="42699" WikiPostId="42698" />
+  <row Id="659" TagName="locktime" Count="42" ExcerptPostId="26939" WikiPostId="26938" />
+  <row Id="660" TagName="india" Count="14" ExcerptPostId="45993" WikiPostId="45992" />
+  <row Id="661" TagName="oracle" Count="7" ExcerptPostId="29553" WikiPostId="29552" />
+  <row Id="664" TagName="portable" Count="6" />
+  <row Id="668" TagName="multi-sig" Count="79" />
+  <row Id="669" TagName="multi-sig-addresses" Count="111" ExcerptPostId="42527" WikiPostId="42526" />
+  <row Id="670" TagName="dwolla" Count="8" />
+  <row Id="671" TagName="exchange-rate" Count="247" ExcerptPostId="18482" WikiPostId="18481" />
+  <row Id="672" TagName="ddos" Count="9" ExcerptPostId="24061" WikiPostId="24060" />
+  <row Id="675" TagName="time" Count="30" />
+  <row Id="676" TagName="checkpoints" Count="16" ExcerptPostId="73789" WikiPostId="73788" />
+  <row Id="679" TagName="firstbits" Count="6" />
+  <row Id="681" TagName="php" Count="153" ExcerptPostId="59719" WikiPostId="59718" />
+  <row Id="682" TagName="merchant-services" Count="15" />
+  <row Id="683" TagName="error" Count="87" />
+  <row Id="685" TagName="specification" Count="11" />
+  <row Id="687" TagName="proof-of-destruction" Count="7" />
+  <row Id="688" TagName="ripple" Count="359" ExcerptPostId="7629" WikiPostId="7628" />
+  <row Id="692" TagName="wot" Count="4" ExcerptPostId="7619" WikiPostId="7618" />
+  <row Id="693" TagName="iou" Count="15" />
+  <row Id="695" TagName="stratum" Count="77" />
+  <row Id="696" TagName="bip37-bloom-filter" Count="24" ExcerptPostId="46596" WikiPostId="46595" />
+  <row Id="697" TagName="gettransactions" Count="6" />
+  <row Id="698" TagName="offline" Count="59" />
+  <row Id="699" TagName="ripple-gateways" Count="51" ExcerptPostId="23975" WikiPostId="23974" />
+  <row Id="700" TagName="bitstamp" Count="44" ExcerptPostId="7885" WikiPostId="7884" />
+  <row Id="704" TagName="cash" Count="28" ExcerptPostId="11897" WikiPostId="11896" />
+  <row Id="707" TagName="ripple-client" Count="15" />
+  <row Id="715" TagName="transaction-selection" Count="66" ExcerptPostId="43002" WikiPostId="43001" />
+  <row Id="716" TagName="spam" Count="17" />
+  <row Id="717" TagName="mixing" Count="36" ExcerptPostId="74069" WikiPostId="74068" />
+  <row Id="721" TagName="hawala" Count="3" />
+  <row Id="722" TagName="march-2013-fork" Count="10" />
+  <row Id="729" TagName="ripple-transaction-fees" Count="18" ExcerptPostId="8381" WikiPostId="8380" />
+  <row Id="733" TagName="brain-wallet" Count="36" ExcerptPostId="66486" WikiPostId="66485" />
+  <row Id="734" TagName="fincen" Count="10" />
+  <row Id="735" TagName="transaction-verification" Count="169" ExcerptPostId="42531" WikiPostId="42530" />
+  <row Id="742" TagName="ripple-trust" Count="9" />
+  <row Id="744" TagName="unconfirmed-transactions" Count="529" ExcerptPostId="42158" WikiPostId="42157" />
+  <row Id="746" TagName="exchange-order" Count="37" />
+  <row Id="747" TagName="paper-wallet" Count="153" ExcerptPostId="30538" WikiPostId="30537" />
+  <row Id="748" TagName="address-generation" Count="188" ExcerptPostId="42533" WikiPostId="42532" />
+  <row Id="749" TagName="bitaddress.org" Count="18" />
+  <row Id="750" TagName="pgp" Count="8" />
+  <row Id="751" TagName="payment-processors" Count="52" />
+  <row Id="752" TagName="instawallet" Count="3" />
+  <row Id="754" TagName="javascript" Count="65" />
+  <row Id="755" TagName="ledger" Count="83" ExcerptPostId="66325" WikiPostId="66324" />
+  <row Id="757" TagName="avalon" Count="8" />
+  <row Id="758" TagName="nfc" Count="3" />
+  <row Id="762" TagName="pruning" Count="51" ExcerptPostId="46835" WikiPostId="46834" />
+  <row Id="764" TagName="salt" Count="2" />
+  <row Id="767" TagName="account-to-account" Count="4" />
+  <row Id="772" TagName="money-transfer" Count="44" />
+  <row Id="778" TagName="governance" Count="28" ExcerptPostId="37383" WikiPostId="37382" />
+  <row Id="779" TagName="proof-of-work" Count="210" ExcerptPostId="42156" WikiPostId="42155" />
+  <row Id="780" TagName="pushpool" Count="19" />
+  <row Id="782" TagName="macroeconomics" Count="11" />
+  <row Id="785" TagName="consensus" Count="141" ExcerptPostId="54335" WikiPostId="54334" />
+  <row Id="791" TagName="bitpay" Count="62" />
+  <row Id="792" TagName="latency" Count="14" />
+  <row Id="794" TagName="security-key" Count="7" />
+  <row Id="795" TagName="hybrid" Count="4" />
+  <row Id="798" TagName="shares" Count="67" ExcerptPostId="37707" WikiPostId="37706" />
+  <row Id="802" TagName="btce" Count="56" ExcerptPostId="19124" WikiPostId="19123" />
+  <row Id="803" TagName="architecture" Count="22" ExcerptPostId="10754" WikiPostId="10753" />
+  <row Id="804" TagName="abe" Count="12" ExcerptPostId="21075" WikiPostId="21074" />
+  <row Id="805" TagName="spv" Count="79" ExcerptPostId="24039" WikiPostId="24038" />
+  <row Id="807" TagName="bitcoinjs" Count="55" ExcerptPostId="11099" WikiPostId="11098" />
+  <row Id="809" TagName="raw-transaction" Count="246" ExcerptPostId="42173" WikiPostId="42172" />
+  <row Id="810" TagName="broadcast" Count="34" />
+  <row Id="813" TagName="bitcoin.conf" Count="49" ExcerptPostId="11889" WikiPostId="11888" />
+  <row Id="815" TagName="getblocktemplate" Count="26" ExcerptPostId="36798" WikiPostId="36797" />
+  <row Id="816" TagName="scrypt" Count="77" ExcerptPostId="37711" WikiPostId="37710" />
+  <row Id="818" TagName="yacoin" Count="2" ExcerptPostId="11892" WikiPostId="11891" />
+  <row Id="820" TagName="hardware-wallet" Count="76" ExcerptPostId="74322" WikiPostId="74321" />
+  <row Id="821" TagName="height" Count="13" ExcerptPostId="23978" WikiPostId="23977" />
+  <row Id="822" TagName="bootstrap.dat" Count="34" ExcerptPostId="18567" WikiPostId="18566" />
+  <row Id="823" TagName="volume" Count="22" />
+  <row Id="826" TagName="primecoin" Count="10" />
+  <row Id="830" TagName="off-chain" Count="23" ExcerptPostId="13385" WikiPostId="13384" />
+  <row Id="832" TagName="securities" Count="6" />
+  <row Id="833" TagName="stocks" Count="13" />
+  <row Id="836" TagName="shared" Count="5" />
+  <row Id="839" TagName="faucets" Count="31" />
+  <row Id="840" TagName="websockets" Count="16" />
+  <row Id="844" TagName="deterministic-wallets" Count="41" ExcerptPostId="46858" WikiPostId="46857" />
+  <row Id="845" TagName="quantum-computing" Count="12" />
+  <row Id="847" TagName="bfgminer" Count="68" ExcerptPostId="30540" WikiPostId="30539" />
+  <row Id="848" TagName="education" Count="9" />
+  <row Id="850" TagName="malware" Count="11" />
+  <row Id="854" TagName="provably-fair" Count="2" />
+  <row Id="855" TagName="p2sh" Count="115" />
+  <row Id="856" TagName="uri" Count="9" />
+  <row Id="858" TagName="safemode" Count="3" />
+  <row Id="861" TagName="ripemd160" Count="12" />
+  <row Id="863" TagName="phishing" Count="5" />
+  <row Id="864" TagName="ripple-api" Count="32" />
+  <row Id="865" TagName="amd" Count="8" />
+  <row Id="867" TagName="coinjoin" Count="12" ExcerptPostId="27051" WikiPostId="27050" />
+  <row Id="869" TagName="transit-fees" Count="5" />
+  <row Id="871" TagName="buttercoin" Count="2" />
+  <row Id="873" TagName="quarkcoin" Count="13" ExcerptPostId="18484" WikiPostId="18483" />
+  <row Id="874" TagName="bip32" Count="149" ExcerptPostId="36547" WikiPostId="36546" />
+  <row Id="875" TagName="localbitcoins" Count="10" ExcerptPostId="18289" WikiPostId="18288" />
+  <row Id="877" TagName="litecoin-qt" Count="28" />
+  <row Id="878" TagName="ticker" Count="12" />
+  <row Id="879" TagName="pubnub" Count="3" />
+  <row Id="882" TagName="bitcoin-atm" Count="19" />
+  <row Id="884" TagName="datacoin" Count="3" />
+  <row Id="885" TagName="dogecoin" Count="90" ExcerptPostId="20392" WikiPostId="20391" />
+  <row Id="887" TagName="primecoind" Count="3" />
+  <row Id="893" TagName="cryptsy" Count="21" />
+  <row Id="894" TagName="hd-wallet" Count="153" ExcerptPostId="19788" WikiPostId="19787" />
+  <row Id="897" TagName="altcoin" Count="489" ExcerptPostId="24059" WikiPostId="24058" />
+  <row Id="898" TagName="immature-coins" Count="14" ExcerptPostId="30646" WikiPostId="30645" />
+  <row Id="899" TagName="dust" Count="41" ExcerptPostId="22053" WikiPostId="22052" />
+  <row Id="900" TagName="financial-regulations" Count="15" ExcerptPostId="46525" WikiPostId="46524" />
+  <row Id="902" TagName="uk" Count="3" />
+  <row Id="904" TagName="bip38" Count="15" ExcerptPostId="37134" WikiPostId="37133" />
+  <row Id="908" TagName="utxo" Count="148" ExcerptPostId="22271" WikiPostId="22270" />
+  <row Id="909" TagName="btcguild" Count="5" />
+  <row Id="911" TagName="ronpaulcoin" Count="1" ExcerptPostId="21081" WikiPostId="21080" />
+  <row Id="919" TagName="peercoin" Count="37" />
+  <row Id="925" TagName="maxcoin" Count="4" />
+  <row Id="927" TagName="ssl" Count="12" />
+  <row Id="932" TagName="transaction-id" Count="50" ExcerptPostId="46395" WikiPostId="46394" />
+  <row Id="938" TagName="wealth-distribution" Count="18" />
+  <row Id="939" TagName="transaction-malleability" Count="69" ExcerptPostId="42161" WikiPostId="42160" />
+  <row Id="942" TagName="memory" Count="20" />
+  <row Id="944" TagName="vertcoin" Count="6" />
+  <row Id="951" TagName="auroracoin" Count="4" />
+  <row Id="952" TagName="mempool" Count="99" ExcerptPostId="57043" WikiPostId="57042" />
+  <row Id="954" TagName="nxt" Count="117" ExcerptPostId="30280" WikiPostId="30279" />
+  <row Id="955" TagName="ownership" Count="15" />
+  <row Id="963" TagName="watch-only" Count="39" ExcerptPostId="24031" WikiPostId="24030" />
+  <row Id="966" TagName="ethereum" Count="185" ExcerptPostId="36249" WikiPostId="36248" />
+  <row Id="968" TagName="packets" Count="5" ExcerptPostId="25021" WikiPostId="25020" />
+  <row Id="969" TagName="bitcoin-symbol" Count="2" />
+  <row Id="970" TagName="reward-schedule" Count="103" ExcerptPostId="23983" WikiPostId="23982" />
+  <row Id="971" TagName="x11" Count="3" ExcerptPostId="24034" WikiPostId="24033" />
+  <row Id="973" TagName="raspberry-pi" Count="54" />
+  <row Id="974" TagName="gridseed" Count="6" />
+  <row Id="977" TagName="wallet-notify" Count="19" />
+  <row Id="979" TagName="mysql" Count="5" ExcerptPostId="25019" WikiPostId="25018" />
+  <row Id="986" TagName="xrp-reserve" Count="7" />
+  <row Id="992" TagName="blackcoin" Count="4" />
+  <row Id="995" TagName="counterparty.co" Count="3" />
+  <row Id="997" TagName="decentralized-assets" Count="16" />
+  <row Id="1000" TagName="chainwork" Count="2" ExcerptPostId="26930" WikiPostId="26929" />
+  <row Id="1002" TagName="micropayments" Count="25" />
+  <row Id="1006" TagName="destroy-bitcoins" Count="11" ExcerptPostId="27015" WikiPostId="27014" />
+  <row Id="1008" TagName="shrinking-money-supply" Count="21" ExcerptPostId="27020" WikiPostId="27019" />
+  <row Id="1009" TagName="lost-bitcoins" Count="91" />
+  <row Id="1011" TagName="lost-wallet" Count="35" />
+  <row Id="1012" TagName="wallet-recovery" Count="264" ExcerptPostId="59106" WikiPostId="59105" />
+  <row Id="1014" TagName="recover-private-key" Count="45" />
+  <row Id="1016" TagName="guiminer" Count="43" />
+  <row Id="1017" TagName="hive" Count="8" ExcerptPostId="28066" WikiPostId="28065" />
+  <row Id="1018" TagName="bitcoin-days-destroyed" Count="12" ExcerptPostId="27047" WikiPostId="27046" />
+  <row Id="1025" TagName="email" Count="10" />
+  <row Id="1028" TagName="crypto-2.0" Count="9" />
+  <row Id="1029" TagName="leveldb" Count="39" ExcerptPostId="42928" WikiPostId="42927" />
+  <row Id="1030" TagName="node.js" Count="47" />
+  <row Id="1031" TagName="bitfinex" Count="37" ExcerptPostId="35806" WikiPostId="35805" />
+  <row Id="1032" TagName="python" Count="165" />
+  <row Id="1035" TagName="alias" Count="2" />
+  <row Id="1039" TagName="sequence" Count="13" />
+  <row Id="1040" TagName="forging" Count="13" />
+  <row Id="1042" TagName="openbazaar" Count="2" />
+  <row Id="1046" TagName="bittrex" Count="39" />
+  <row Id="1047" TagName="mintpal" Count="2" />
+  <row Id="1048" TagName="bter" Count="4" />
+  <row Id="1053" TagName="stealth-address" Count="8" />
+  <row Id="1056" TagName="counterparty" Count="12" ExcerptPostId="50796" WikiPostId="50795" />
+  <row Id="1057" TagName="cryptonote" Count="18" />
+  <row Id="1058" TagName="sybil-attack" Count="16" />
+  <row Id="1061" TagName="chain-reorganization" Count="35" ExcerptPostId="46681" WikiPostId="46680" />
+  <row Id="1062" TagName="offline-transactions" Count="21" ExcerptPostId="46399" WikiPostId="46398" />
+  <row Id="1064" TagName="mgw" Count="2" />
+  <row Id="1065" TagName="multigateway" Count="3" />
+  <row Id="1066" TagName="output" Count="56" />
+  <row Id="1071" TagName="wallet-security" Count="100" ExcerptPostId="32036" WikiPostId="32035" />
+  <row Id="1073" TagName="digitalcoin" Count="6" />
+  <row Id="1075" TagName="zerocoin" Count="8" />
+  <row Id="1076" TagName="bitcoin-logo" Count="5" />
+  <row Id="1077" TagName="ruby" Count="21" />
+  <row Id="1080" TagName="margin" Count="8" />
+  <row Id="1083" TagName="trucoin" Count="2" />
+  <row Id="1084" TagName="gavin-andresen" Count="3" />
+  <row Id="1086" TagName="key-selling-points" Count="10" ExcerptPostId="30795" WikiPostId="30794" />
+  <row Id="1087" TagName="bitcoin-qt-setup" Count="52" ExcerptPostId="30800" WikiPostId="30799" />
+  <row Id="1088" TagName="mining-setup" Count="88" ExcerptPostId="30802" WikiPostId="30801" />
+  <row Id="1089" TagName="bitcoincore-development" Count="304" ExcerptPostId="30819" WikiPostId="30818" />
+  <row Id="1090" TagName="non-standard-transaction" Count="38" ExcerptPostId="30825" WikiPostId="30824" />
+  <row Id="1091" TagName="stellar" Count="27" ExcerptPostId="37065" WikiPostId="37064" />
+  <row Id="1092" TagName="mnemonic-seed" Count="88" ExcerptPostId="37130" WikiPostId="37129" />
+  <row Id="1094" TagName="bitcoin-literature" Count="9" ExcerptPostId="31923" WikiPostId="31922" />
+  <row Id="1095" TagName="introducing-bitcoin" Count="20" ExcerptPostId="31921" WikiPostId="31920" />
+  <row Id="1097" TagName="proof-of-existence" Count="6" />
+  <row Id="1099" TagName="regtest" Count="89" ExcerptPostId="54714" WikiPostId="54713" />
+  <row Id="1100" TagName="sidechains" Count="50" />
+  <row Id="1104" TagName="antminer" Count="87" />
+  <row Id="1109" TagName="msigna" Count="6" ExcerptPostId="32345" WikiPostId="32344" />
+  <row Id="1111" TagName="airdrop" Count="6" />
+  <row Id="1113" TagName="psu" Count="9" />
+  <row Id="1116" TagName="undofiles" Count="1" ExcerptPostId="32718" WikiPostId="32717" />
+  <row Id="1123" TagName=".net" Count="11" />
+  <row Id="1128" TagName="bitcore" Count="90" ExcerptPostId="48910" WikiPostId="48909" />
+  <row Id="1129" TagName="bip12" Count="2" ExcerptPostId="37978" WikiPostId="37977" />
+  <row Id="1130" TagName="bip70-payment-protocol" Count="19" ExcerptPostId="37132" WikiPostId="37131" />
+  <row Id="1136" TagName="blocktrail" Count="10" ExcerptPostId="34182" WikiPostId="34181" />
+  <row Id="1139" TagName="precision" Count="2" />
+  <row Id="1141" TagName="tainted-coins" Count="13" />
+  <row Id="1145" TagName="op-return" Count="61" ExcerptPostId="43238" WikiPostId="43237" />
+  <row Id="1146" TagName="u3" Count="4" />
+  <row Id="1149" TagName="time-warp-attack" Count="8" />
+  <row Id="1151" TagName="shapeshift.io" Count="10" ExcerptPostId="35375" WikiPostId="35374" />
+  <row Id="1153" TagName="coinbase-transaction" Count="109" ExcerptPostId="35460" WikiPostId="35459" />
+  <row Id="1154" TagName="mining-reward" Count="318" ExcerptPostId="35534" WikiPostId="35533" />
+  <row Id="1155" TagName="rpc-error-25" Count="13" ExcerptPostId="35486" WikiPostId="35485" />
+  <row Id="1156" TagName="banscore" Count="11" ExcerptPostId="35545" WikiPostId="35544" />
+  <row Id="1158" TagName="toshi" Count="3" ExcerptPostId="35614" WikiPostId="35613" />
+  <row Id="1161" TagName="smartcontracts" Count="54" ExcerptPostId="42762" WikiPostId="42761" />
+  <row Id="1162" TagName="blocks" Count="28" />
+  <row Id="1164" TagName="historical-trade-data" Count="64" ExcerptPostId="35710" WikiPostId="35709" />
+  <row Id="1168" TagName="datadir" Count="11" ExcerptPostId="35839" WikiPostId="35838" />
+  <row Id="1170" TagName="crowdfunding" Count="3" />
+  <row Id="1172" TagName="altcoin-development" Count="142" />
+  <row Id="1173" TagName="bitcoin-core" Count="2487" ExcerptPostId="38148" WikiPostId="38147" />
+  <row Id="1176" TagName="remittance" Count="2" ExcerptPostId="36333" WikiPostId="36332" />
+  <row Id="1177" TagName="wallet-import" Count="36" ExcerptPostId="36450" WikiPostId="36449" />
+  <row Id="1178" TagName="wallet-import-format" Count="14" ExcerptPostId="36448" WikiPostId="36447" />
+  <row Id="1179" TagName="bip44" Count="31" />
+  <row Id="1180" TagName="peer-discovery" Count="37" ExcerptPostId="36533" WikiPostId="36532" />
+  <row Id="1181" TagName="midstate" Count="3" />
+  <row Id="1182" TagName="private-key-import" Count="57" />
+  <row Id="1183" TagName="sendtoaddress" Count="26" />
+  <row Id="1184" TagName="nbitcoin" Count="28" ExcerptPostId="48458" WikiPostId="48457" />
+  <row Id="1188" TagName="dash" Count="51" ExcerptPostId="36927" WikiPostId="36926" />
+  <row Id="1189" TagName="selfish-mining" Count="19" />
+  <row Id="1190" TagName="mini-key" Count="1" ExcerptPostId="36997" WikiPostId="36996" />
+  <row Id="1191" TagName="bitshares" Count="6" />
+  <row Id="1192" TagName="proof-of-solvency" Count="7" />
+  <row Id="1194" TagName="audits" Count="5" />
+  <row Id="1197" TagName="sighash-flags" Count="9" />
+  <row Id="1200" TagName="block-size-increase" Count="68" ExcerptPostId="37299" WikiPostId="37298" />
+  <row Id="1202" TagName="recurring-payments" Count="10" ExcerptPostId="48460" WikiPostId="48459" />
+  <row Id="1203" TagName="blocksize" Count="63" ExcerptPostId="37312" WikiPostId="37311" />
+  <row Id="1204" TagName="bitcoin.org" Count="6" />
+  <row Id="1208" TagName="price-discovery" Count="13" />
+  <row Id="1209" TagName="block-interval" Count="49" ExcerptPostId="38269" WikiPostId="38268" />
+  <row Id="1210" TagName="bash" Count="5" />
+  <row Id="1211" TagName="cve-2010-5141" Count="2" />
+  <row Id="1213" TagName="checksig" Count="14" />
+  <row Id="1217" TagName="fungibility" Count="10" />
+  <row Id="1218" TagName="majority-attack" Count="103" ExcerptPostId="37883" WikiPostId="37882" />
+  <row Id="1219" TagName="inventory" Count="8" ExcerptPostId="66321" WikiPostId="66320" />
+  <row Id="1223" TagName="loans" Count="10" ExcerptPostId="38041" WikiPostId="38040" />
+  <row Id="1228" TagName="bitcoin-xt" Count="11" />
+  <row Id="1229" TagName="replace-by-fee" Count="40" ExcerptPostId="49446" WikiPostId="49445" />
+  <row Id="1230" TagName="china" Count="8" ExcerptPostId="38199" WikiPostId="38198" />
+  <row Id="1233" TagName="validation" Count="83" />
+  <row Id="1235" TagName="block-propagation-time" Count="19" />
+  <row Id="1239" TagName="bip66" Count="4" />
+  <row Id="1240" TagName="open-assets" Count="4" />
+  <row Id="1241" TagName="stale-block" Count="20" ExcerptPostId="42697" WikiPostId="42696" />
+  <row Id="1242" TagName="private-blockchains" Count="37" />
+  <row Id="1243" TagName="bequesting-bitcoin" Count="10" ExcerptPostId="38722" WikiPostId="38721" />
+  <row Id="1247" TagName="multibit-hd" Count="48" />
+  <row Id="1248" TagName="transaction-input" Count="58" ExcerptPostId="46397" WikiPostId="46396" />
+  <row Id="1249" TagName="micropaymentchannels" Count="23" />
+  <row Id="1250" TagName="lightning-network" Count="276" ExcerptPostId="42392" WikiPostId="42391" />
+  <row Id="1252" TagName="bip9-version-bits" Count="15" ExcerptPostId="49712" WikiPostId="49711" />
+  <row Id="1253" TagName="bip65" Count="6" />
+  <row Id="1257" TagName="checklocktimeverify" Count="14" />
+  <row Id="1258" TagName="zeromq" Count="27" ExcerptPostId="75501" WikiPostId="75500" />
+  <row Id="1259" TagName="trezor" Count="73" ExcerptPostId="46147" WikiPostId="46146" />
+  <row Id="1261" TagName="breadwallet" Count="17" />
+  <row Id="1263" TagName="bip62" Count="2" ExcerptPostId="41173" WikiPostId="41172" />
+  <row Id="1264" TagName="cloud-mining" Count="29" ExcerptPostId="42707" WikiPostId="42706" />
+  <row Id="1265" TagName="c" Count="14" />
+  <row Id="1267" TagName="cex.io" Count="5" />
+  <row Id="1268" TagName="ghash.io" Count="7" />
+  <row Id="1270" TagName="bitcoin-wallet-app" Count="96" ExcerptPostId="42168" WikiPostId="42167" />
+  <row Id="1271" TagName="airbitz" Count="2" />
+  <row Id="1273" TagName="listtransactions" Count="8" />
+  <row Id="1274" TagName="bitcoin-cli" Count="153" />
+  <row Id="1275" TagName="perl" Count="3" />
+  <row Id="1276" TagName="full-node" Count="159" />
+  <row Id="1278" TagName="factom" Count="4" />
+  <row Id="1279" TagName="segregated-witness" Count="343" ExcerptPostId="49105" WikiPostId="49104" />
+  <row Id="1281" TagName="altcoin-trade" Count="17" />
+  <row Id="1286" TagName="bitlicense" Count="2" />
+  <row Id="1287" TagName="mycelium-wallet" Count="40" ExcerptPostId="42170" WikiPostId="42169" />
+  <row Id="1288" TagName="usability" Count="2" />
+  <row Id="1289" TagName="address-reuse" Count="41" ExcerptPostId="57740" WikiPostId="57739" />
+  <row Id="1291" TagName="account-control" Count="4" />
+  <row Id="1293" TagName="blockstream" Count="7" />
+  <row Id="1294" TagName="whitepaper" Count="22" />
+  <row Id="1295" TagName="mining-profitability" Count="384" ExcerptPostId="42473" WikiPostId="42472" />
+  <row Id="1296" TagName="mining-hardware" Count="407" ExcerptPostId="42479" WikiPostId="42478" />
+  <row Id="1297" TagName="cpu-mining" Count="104" ExcerptPostId="42475" WikiPostId="42474" />
+  <row Id="1298" TagName="mining-theory" Count="534" ExcerptPostId="42477" WikiPostId="42476" />
+  <row Id="1299" TagName="gpu-mining" Count="140" ExcerptPostId="42482" WikiPostId="42481" />
+  <row Id="1300" TagName="miner-configuration" Count="343" ExcerptPostId="42490" WikiPostId="42489" />
+  <row Id="1301" TagName="asic-resistance" Count="16" />
+  <row Id="1302" TagName="mining-software" Count="121" ExcerptPostId="59721" WikiPostId="59720" />
+  <row Id="1303" TagName="bip47" Count="4" ExcerptPostId="46327" WikiPostId="46326" />
+  <row Id="1304" TagName="nxt-data-cloud" Count="4" />
+  <row Id="1305" TagName="nxt-api" Count="4" ExcerptPostId="78545" WikiPostId="78544" />
+  <row Id="1306" TagName="salary" Count="4" />
+  <row Id="1307" TagName="bitcoin-classic" Count="13" ExcerptPostId="77962" WikiPostId="77961" />
+  <row Id="1309" TagName="minerd" Count="8" />
+  <row Id="1313" TagName="empty-blocks" Count="27" ExcerptPostId="43271" WikiPostId="43270" />
+  <row Id="1314" TagName="transaction-propagation" Count="23" ExcerptPostId="42702" WikiPostId="42701" />
+  <row Id="1316" TagName="shared-wallet" Count="4" ExcerptPostId="42710" WikiPostId="42709" />
+  <row Id="1319" TagName="bitcoin-credit-card" Count="9" ExcerptPostId="42838" WikiPostId="42837" />
+  <row Id="1320" TagName="asicminer" Count="1" ExcerptPostId="42885" WikiPostId="42884" />
+  <row Id="1321" TagName="pycoin" Count="8" />
+  <row Id="1322" TagName="child-pays-for-parent" Count="22" />
+  <row Id="1324" TagName="21-bitcoin-computer" Count="2" />
+  <row Id="1325" TagName="centos" Count="8" />
+  <row Id="1326" TagName="fee-market" Count="30" />
+  <row Id="1327" TagName="mastering-bitcoin" Count="10" ExcerptPostId="59076" WikiPostId="59075" />
+  <row Id="1330" TagName="command-line-options" Count="14" />
+  <row Id="1331" TagName="lightning-routing" Count="33" />
+  <row Id="1334" TagName="mining-technical-details" Count="93" ExcerptPostId="43291" WikiPostId="43290" />
+  <row Id="1336" TagName="key-collision" Count="9" />
+  <row Id="1338" TagName="circulation-velocity" Count="1" ExcerptPostId="43363" WikiPostId="43362" />
+  <row Id="1339" TagName="know-your-customer" Count="12" ExcerptPostId="43365" WikiPostId="43364" />
+  <row Id="1340" TagName="finney-attack" Count="5" />
+  <row Id="1342" TagName="slush" Count="10" />
+  <row Id="1343" TagName="coin-selection" Count="20" ExcerptPostId="43598" WikiPostId="43597" />
+  <row Id="1344" TagName="monero" Count="31" ExcerptPostId="75797" WikiPostId="75796" />
+  <row Id="1345" TagName="bitwasp" Count="6" />
+  <row Id="1348" TagName="block-validity" Count="27" />
+  <row Id="1351" TagName="cpuminer" Count="16" />
+  <row Id="1352" TagName="bitminter" Count="5" />
+  <row Id="1356" TagName="zero-knowledge" Count="14" ExcerptPostId="46354" WikiPostId="46353" />
+  <row Id="1358" TagName="math" Count="13" />
+  <row Id="1363" TagName="copay" Count="69" ExcerptPostId="44436" WikiPostId="44435" />
+  <row Id="1366" TagName="checksequenceverify" Count="9" />
+  <row Id="1367" TagName="openssl" Count="13" />
+  <row Id="1368" TagName="dependencies" Count="5" />
+  <row Id="1369" TagName="make" Count="13" />
+  <row Id="1371" TagName="confidential-transactions" Count="20" />
+  <row Id="1372" TagName="zero-fee" Count="2" />
+  <row Id="1374" TagName="utxo-committments" Count="1" ExcerptPostId="45928" WikiPostId="45927" />
+  <row Id="1375" TagName="fee-estimation" Count="20" ExcerptPostId="46393" WikiPostId="46392" />
+  <row Id="1377" TagName="ardor" Count="67" ExcerptPostId="78380" WikiPostId="78379" />
+  <row Id="1378" TagName="gitian" Count="15" ExcerptPostId="76921" WikiPostId="76920" />
+  <row Id="1380" TagName="united-kingdom" Count="4" ExcerptPostId="46360" WikiPostId="46359" />
+  <row Id="1381" TagName="p2pkh" Count="29" ExcerptPostId="48282" WikiPostId="48281" />
+  <row Id="1384" TagName="staking" Count="8" />
+  <row Id="1385" TagName="createrawtransaction" Count="32" ExcerptPostId="74952" WikiPostId="74951" />
+  <row Id="1387" TagName="documentation" Count="7" />
+  <row Id="1389" TagName="webapp" Count="4" />
+  <row Id="1390" TagName="transaction-messaging" Count="5" />
+  <row Id="1393" TagName="face-to-face-payment" Count="11" ExcerptPostId="46833" WikiPostId="46832" />
+  <row Id="1394" TagName="storage-footprint" Count="38" ExcerptPostId="46850" WikiPostId="46849" />
+  <row Id="1395" TagName="coin-control" Count="8" ExcerptPostId="46856" WikiPostId="46855" />
+  <row Id="1396" TagName="schnorr-signatures" Count="19" />
+  <row Id="1397" TagName="mimblewimble" Count="7" />
+  <row Id="1398" TagName="tracking" Count="15" />
+  <row Id="1399" TagName="hack" Count="7" />
+  <row Id="1400" TagName="rescan" Count="16" />
+  <row Id="1401" TagName="reindex" Count="19" />
+  <row Id="1402" TagName="pybitcointools" Count="13" ExcerptPostId="48146" WikiPostId="48145" />
+  <row Id="1403" TagName="address-management" Count="2" ExcerptPostId="48214" WikiPostId="48213" />
+  <row Id="1404" TagName="greenbits" Count="4" ExcerptPostId="48316" WikiPostId="48315" />
+  <row Id="1406" TagName="kraken" Count="22" />
+  <row Id="1407" TagName="private-key-export" Count="49" ExcerptPostId="66313" WikiPostId="66312" />
+  <row Id="1408" TagName="compact-blocks" Count="5" />
+  <row Id="1415" TagName="zcash" Count="55" ExcerptPostId="49277" WikiPostId="49276" />
+  <row Id="1420" TagName="p2pk" Count="10" ExcerptPostId="49161" WikiPostId="49160" />
+  <row Id="1422" TagName="ignis" Count="19" />
+  <row Id="1423" TagName="nxt-monetary-system" Count="3" />
+  <row Id="1425" TagName="p2wpkh" Count="16" />
+  <row Id="1430" TagName="tumblebit" Count="4" ExcerptPostId="49849" WikiPostId="49848" />
+  <row Id="1433" TagName="rpc-error-5" Count="3" ExcerptPostId="49870" WikiPostId="49869" />
+  <row Id="1434" TagName="sweep" Count="15" />
+  <row Id="1435" TagName="rootstock" Count="10" />
+  <row Id="1436" TagName="hyperledger" Count="14" />
+  <row Id="1438" TagName="query" Count="7" />
+  <row Id="1439" TagName="bitcoin-unlimited" Count="16" />
+  <row Id="1443" TagName="point-of-sale" Count="7" />
+  <row Id="1449" TagName="public-note" Count="4" />
+  <row Id="1451" TagName="qbitninja" Count="4" />
+  <row Id="1452" TagName="rpc-error-4" Count="6" ExcerptPostId="51749" WikiPostId="51748" />
+  <row Id="1454" TagName="coinomi" Count="11" ExcerptPostId="51836" WikiPostId="51835" />
+  <row Id="1455" TagName="cost-of-node-option" Count="5" ExcerptPostId="54373" WikiPostId="54372" />
+  <row Id="1456" TagName="american-express" Count="2" />
+  <row Id="1458" TagName="bitcoin-etf" Count="7" />
+  <row Id="1459" TagName="soft-fork" Count="23" />
+  <row Id="1461" TagName="replay-attack" Count="29" />
+  <row Id="1466" TagName="ransomware" Count="4" />
+  <row Id="1467" TagName="antpool" Count="2" />
+  <row Id="1468" TagName="blockchain-data-storage" Count="8" />
+  <row Id="1472" TagName="asicboost" Count="9" />
+  <row Id="1474" TagName="indiesquare" Count="2" ExcerptPostId="52893" WikiPostId="52892" />
+  <row Id="1477" TagName="reusable-payment-code" Count="2" />
+  <row Id="1482" TagName="two-factor-authentication" Count="7" />
+  <row Id="1485" TagName="transaction-capacity" Count="10" ExcerptPostId="66323" WikiPostId="66322" />
+  <row Id="1488" TagName="ico-initial-coin-offering" Count="21" />
+  <row Id="1490" TagName="solidity" Count="4" />
+  <row Id="1491" TagName="ethereum-vm" Count="3" />
+  <row Id="1493" TagName="atomic-swap" Count="15" />
+  <row Id="1494" TagName="bither" Count="4" />
+  <row Id="1495" TagName="iota" Count="10" />
+  <row Id="1496" TagName="reddcoin" Count="2" />
+  <row Id="1497" TagName="signrawtransaction" Count="23" />
+  <row Id="1499" TagName="nodecount" Count="2" />
+  <row Id="1500" TagName="block.io" Count="7" />
+  <row Id="1502" TagName="segwit2x" Count="55" />
+  <row Id="1503" TagName="lending" Count="4" />
+  <row Id="1504" TagName="interest" Count="2" />
+  <row Id="1506" TagName="block-weight" Count="9" />
+  <row Id="1507" TagName="libbitcoin" Count="11" />
+  <row Id="1509" TagName="wallet-development" Count="10" />
+  <row Id="1511" TagName="custody" Count="2" />
+  <row Id="1514" TagName="blockcerts" Count="1" ExcerptPostId="55208" WikiPostId="55207" />
+  <row Id="1515" TagName="signature-operations" Count="2" />
+  <row Id="1517" TagName="p2wsh" Count="6" />
+  <row Id="1518" TagName="fibre" Count="2" ExcerptPostId="56509" WikiPostId="56508" />
+  <row Id="1519" TagName="address-format" Count="23" ExcerptPostId="56505" WikiPostId="56504" />
+  <row Id="1522" TagName="checksum" Count="5" />
+  <row Id="1523" TagName="bip148-uasf" Count="18" ExcerptPostId="56877" WikiPostId="56876" />
+  <row Id="1525" TagName="bitcoin-cash" Count="389" ExcerptPostId="57643" WikiPostId="57642" />
+  <row Id="1526" TagName="bip91" Count="6" />
+  <row Id="1527" TagName="ln-breach-remedy" Count="4" ExcerptPostId="56837" WikiPostId="56836" />
+  <row Id="1529" TagName="block-hash" Count="13" />
+  <row Id="1531" TagName="witness-data" Count="6" />
+  <row Id="1532" TagName="source-code" Count="34" />
+  <row Id="1535" TagName="bitcoinabc" Count="25" />
+  <row Id="1536" TagName="difficulty-retargetting" Count="21" />
+  <row Id="1539" TagName="firmware" Count="2" />
+  <row Id="1540" TagName="input" Count="8" />
+  <row Id="1541" TagName="hitbtc" Count="2" />
+  <row Id="1542" TagName="bcoin" Count="18" ExcerptPostId="58131" WikiPostId="58130" />
+  <row Id="1544" TagName="scriptsig" Count="42" />
+  <row Id="1545" TagName="bitgo" Count="15" />
+  <row Id="1546" TagName="sighash" Count="5" />
+  <row Id="1549" TagName="waves-platform" Count="2" />
+  <row Id="1550" TagName="waves" Count="2" />
+  <row Id="1552" TagName="decred" Count="1" ExcerptPostId="68805" WikiPostId="68804" />
+  <row Id="1553" TagName="project-fork" Count="12" ExcerptPostId="59078" WikiPostId="59077" />
+  <row Id="1555" TagName="sendrawtransaction" Count="22" />
+  <row Id="1556" TagName="electrum-console" Count="3" />
+  <row Id="1558" TagName="cli" Count="13" />
+  <row Id="1559" TagName="bech32-address" Count="37" ExcerptPostId="63116" WikiPostId="63115" />
+  <row Id="1560" TagName="implementation" Count="3" />
+  <row Id="1561" TagName="bitcoin-gold" Count="53" ExcerptPostId="60443" WikiPostId="60442" />
+  <row Id="1564" TagName="decentralized-exchanges" Count="8" />
+  <row Id="1565" TagName="child-chain" Count="8" />
+  <row Id="1566" TagName="cross-chain-recovery" Count="52" ExcerptPostId="61559" WikiPostId="61558" />
+  <row Id="1568" TagName="bundler" Count="8" />
+  <row Id="1569" TagName="samourai-wallet" Count="3" />
+  <row Id="1576" TagName="exchange-software" Count="8" ExcerptPostId="62630" WikiPostId="62629" />
+  <row Id="1577" TagName="electron-cash" Count="9" ExcerptPostId="62915" WikiPostId="62914" />
+  <row Id="1578" TagName="bitconnect-coin" Count="5" />
+  <row Id="1579" TagName="gdax" Count="22" />
+  <row Id="1580" TagName="listunspent" Count="13" />
+  <row Id="1581" TagName="transaction-size" Count="6" />
+  <row Id="1582" TagName="importaddress" Count="8" />
+  <row Id="1583" TagName="scala" Count="2" />
+  <row Id="1586" TagName="xpub" Count="29" />
+  <row Id="1592" TagName="changelly.com" Count="3" />
+  <row Id="1596" TagName="private-key-format" Count="4" />
+  <row Id="1597" TagName="dynamic-blocksize" Count="2" />
+  <row Id="1599" TagName="utxo-set" Count="11" ExcerptPostId="66327" WikiPostId="66326" />
+  <row Id="1601" TagName="request" Count="3" />
+  <row Id="1603" TagName="electroneum" Count="2" />
+  <row Id="1605" TagName="channel-factories" Count="3" ExcerptPostId="67238" WikiPostId="67237" />
+  <row Id="1606" TagName="nano" Count="2" />
+  <row Id="1608" TagName="deposit" Count="9" />
+  <row Id="1609" TagName="fiat" Count="9" />
+  <row Id="1612" TagName="exodus" Count="4" />
+  <row Id="1615" TagName="confirmation-time-estimation" Count="3" />
+  <row Id="1616" TagName="payment-batching" Count="6" />
+  <row Id="1619" TagName="nicehash" Count="5" />
+  <row Id="1620" TagName="verge" Count="2" />
+  <row Id="1622" TagName="bip143" Count="2" />
+  <row Id="1625" TagName="ardor-asset-exchange" Count="2" />
+  <row Id="1627" TagName="statistics" Count="5" />
+  <row Id="1629" TagName="blockcypher" Count="18" />
+  <row Id="1632" TagName="chainanalysis" Count="3" />
+  <row Id="1633" TagName="binance" Count="16" />
+  <row Id="1637" TagName="bitnodes" Count="3" />
+  <row Id="1638" TagName="crawler" Count="2" />
+  <row Id="1639" TagName="binance-coin" Count="2" />
+  <row Id="1642" TagName="dapp" Count="2" />
+  <row Id="1643" TagName="lightweight-contracts" Count="2" />
+  <row Id="1647" TagName="eclair" Count="6" ExcerptPostId="76517" WikiPostId="76516" />
+  <row Id="1648" TagName="spread" Count="3" />
+  <row Id="1649" TagName="tether" Count="7" />
+  <row Id="1652" TagName="lightning-network-daemon" Count="40" ExcerptPostId="74749" WikiPostId="74748" />
+  <row Id="1655" TagName="best-chain" Count="31" ExcerptPostId="74739" WikiPostId="74738" />
+  <row Id="1659" TagName="coinmarketcap-com" Count="4" />
+  <row Id="1660" TagName="hash-time-locked-contract" Count="4" />
+  <row Id="1663" TagName="idex" Count="2" />
+  <row Id="1669" TagName="omni" Count="29" ExcerptPostId="75437" WikiPostId="75436" />
+  <row Id="1670" TagName="insight-api" Count="7" ExcerptPostId="76185" WikiPostId="76184" />
+  <row Id="1671" TagName="e-toro" Count="1" />
+  <row Id="1672" TagName="z-address" Count="2" />
+  <row Id="1674" TagName="sandbox" Count="1" />
+  <row Id="1675" TagName="cashaddr" Count="1" />
+  <row Id="1676" TagName="c-lightning" Count="22" ExcerptPostId="76488" WikiPostId="76487" />
+  <row Id="1677" TagName="lightning-charge" Count="1" />
+  <row Id="1678" TagName="geek" Count="2" />
+  <row Id="1680" TagName="ln-commitment-transaction" Count="2" />
+  <row Id="1681" TagName="ln-funding-transaction" Count="1" />
+  <row Id="1682" TagName="bip113" Count="1" />
+  <row Id="1684" TagName="germany" Count="1" />
+  <row Id="1685" TagName="zap" Count="1" />
+  <row Id="1687" TagName="adaptor-signatures" Count="1" />
+  <row Id="1688" TagName="eltoo" Count="1" />
+  <row Id="1689" TagName="wasabi-wallet" Count="1" />
+  <row Id="1690" TagName="cardano" Count="1" />
+  <row Id="1691" TagName="xpriv" Count="1" />
+  <row Id="1692" TagName="ardor-transaction-voucher" Count="1" />
+  <row Id="1694" TagName="accessibility" Count="1" />
+  <row Id="1698" TagName="tendermint" Count="2" />
+  <row Id="1699" TagName="proof-of-payment" Count="1" />
+  <row Id="1700" TagName="channels" Count="1" />
+  <row Id="1703" TagName="dbcache" Count="1" />
+  <row Id="1704" TagName="brokers" Count="1" />
+  <row Id="1706" TagName="txindex" Count="3" />
+  <row Id="1707" TagName="stable-coin" Count="1" />
+  <row Id="1708" TagName="gemini.com" Count="1" />
+  <row Id="1709" TagName="paxful.com" Count="1" />
+  <row Id="1710" TagName="neutrino" Count="3" />
+  <row Id="1711" TagName="ztransaction" Count="1" />
+  <row Id="1712" TagName="sapling" Count="1" />
+  <row Id="1713" TagName="rpc-error-28" Count="1" />
+  <row Id="1714" TagName="ln-opening-channels" Count="8" />
+  <row Id="1715" TagName="ln-node-identity" Count="1" />
+  <row Id="1716" TagName="ln-node-reliability" Count="1" />
+  <row Id="1717" TagName="r" Count="1" />
+  <row Id="1718" TagName="liquid" Count="2" ExcerptPostId="80588" WikiPostId="80587" />
+  <row Id="1719" TagName="dash-masternode" Count="1" />
+  <row Id="1720" TagName="bitcoin-diamond-bcd" Count="1" />
+  <row Id="1721" TagName="lightning-rfc" Count="2" />
+  <row Id="1722" TagName="lncli" Count="1" />
+  <row Id="1724" TagName="bitcrust" Count="1" />
+  <row Id="1725" TagName="bitcoin-sv" Count="1" />
+  <row Id="1726" TagName="tradebot.bid" Count="1" />
+  <row Id="1727" TagName="p2p" Count="2" />
+  <row Id="1728" TagName="dandelion" Count="1" />
+  <row Id="1729" TagName="bip156" Count="1" />
+  <row Id="1730" TagName="deanonymization-attacks" Count="1" />
+</tags>
