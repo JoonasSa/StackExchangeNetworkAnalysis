@@ -27,19 +27,20 @@ database_handler.prepare_json_databases(BASE_PATH)
 
 G.add_nodes_from(os.listdir(BASE_PATH))
 
-edges = defaultdict(lambda:defaultdict(int))
+edges = []
 # Each directory represents a site
 for dir1, dir2 in combinations(os.listdir(BASE_PATH), 2):
     users1 = database_handler.load_json_database(BASE_PATH, dir1)
     users2 = database_handler.load_json_database(BASE_PATH, dir2)
     # The weight of the edge is the number of users that have posted in both sites
-    for user in set(users1).intersection(set(users2)):
-        edges[(dir1, dir2)]['weight'] += 1
-# Networkx doesn't seem to handle defaultdicts, hence the following generator
-G.add_weighted_edges_from((k[0], k[1], v['weight']) for k, v in edges.items())
+    weight = len(set(users1) & set(users2))
+    edges.append((dir1, dir2, weight))
+G.add_weighted_edges_from(edges)
 
 # Drawing edge thickness according to width
-plt.figure(1, figsize=(12,12))
-weights = [G[i][j]['weight']/500 for i, j in edges]
+plt.figure(1, figsize=(16,16))
+raw_weights = [w/500 for w in nx.get_edge_attributes(G, 'weight').values()]
+max_weight = max(raw_weights)
+weights = [w*10/max_weight for w in raw_weights]
 nx.draw(G, with_labels=True, node_color='skyblue', width=weights)
 plt.show()
