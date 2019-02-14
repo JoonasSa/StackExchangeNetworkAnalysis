@@ -24,8 +24,6 @@ for directory in os.listdir(BASE_PATH):
         account_id = user.attrib.get('AccountId', user.attrib.get('DisplayName'))
         # Wanted features
         reputation = user.attrib.get('Reputation')
-        if not reputation:
-            no_reputation.add(account_id)
         users[account_id]['Reputation'] = reputation
     for found_user in missing_users & set(users):
         nodes[found_user] = users[found_user]
