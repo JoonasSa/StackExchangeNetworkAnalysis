@@ -16,10 +16,11 @@ edges = dict()
 missing_users = set()
 nodes = defaultdict(dict)
 wanted_user_attributes = ['Reputation', 'UpVotes', 'DownVotes']
+user_question_counter = defaultdict(int)
 
 for directory in os.listdir(BASE_PATH):
     print('Searching', directory)
-    posts_dict = dict()
+    question_asker = dict()
     users = defaultdict(dict)
     user_row_ids = dict()
     xml_data = get_stackoverflow_data(os.path.join(BASE_PATH, directory), ['Posts', 'Users'])
@@ -35,14 +36,15 @@ for directory in os.listdir(BASE_PATH):
         # PostTypeId == 1 indicates that it's a question
         if row.attrib['PostTypeId'] == '1':
             user_id = user_row_ids.get(row.attrib.get('OwnerUserId')) or row.attrib.get('OwnerDisplayName')
-            posts_dict[row.attrib['Id']] = user_id
+            question_asker[row.attrib['Id']] = user_id
+            user_question_counter[user_id] += 1
     # There are cases of answers with a lower Id than the question, hence one further loop
     for row in xml_data['Posts']:
         # PostTypeId == 2 is an answer
         if row.attrib['PostTypeId'] == '2':
             # fetches the id of the OP and links them
             user_id = user_row_ids.get(row.attrib.get('OwnerUserId')) or row.attrib.get('OwnerDisplayName')
-            parent_user_id = posts_dict[row.attrib['ParentId']]
+            parent_user_id = question_asker[row.attrib['ParentId']]
             creation_date = row.attrib.get('CreationDate')
             for user in user_id, parent_user_id:
                 nodes[user] = users.get(user)
@@ -52,10 +54,13 @@ for directory in os.listdir(BASE_PATH):
             edges[(user_id, parent_user_id)][directory].append(creation_date)
 
 
-#nodes.update({user: None for user in missing_users})
+# This will be in the format:
+#   (answerer, questioner, {'site': <name_of_the_site>, 'weight': <number_of_answers>}add_edges_from)
 G.add_edges_from([(*k, {'site':k2, 'weight':len(v2)}) for k, v in edges.items() for k2, v2 in v.items()])
 
 G.add_nodes_from(nodes)
+for node in G.nodes:
+    G.nodes[node]['questions'] = user_question_counter[node]
 
 #plt.figure(1, figsize=(16,16))
 #nx.draw(G, with_labels=True, node_color='skyblue', width=weights)
