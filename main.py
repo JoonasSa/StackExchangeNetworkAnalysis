@@ -10,12 +10,13 @@ from data_reader import get_stackoverflow_data
 
 BASE_PATH = 'data'
 
-G = nx.MultiDiGraph()
+MDG = nx.MultiDiGraph()
 
 edges = dict()
 missing_users = set()
 nodes = defaultdict(dict)
-wanted_user_attributes = ['Reputation', 'UpVotes', 'DownVotes']
+# The second value indicates if it's numerical
+wanted_user_attributes = [('Reputation', True), ('UpVotes', True), ('DownVotes', True)]
 user_question_counter = defaultdict(int)
 
 for directory in os.listdir(BASE_PATH):
@@ -29,8 +30,10 @@ for directory in os.listdir(BASE_PATH):
         row_id = user.attrib.get('Id')
         user_row_ids[row_id] = account_id
         # Wanted features
-        for attribute in wanted_user_attributes:
+        for attribute, numerical in wanted_user_attributes:
             fetched_attribute = user.attrib.get(attribute)
+            if numerical:
+                fetched_attribute = int(fetched_attribute)
             users[account_id][attribute] = fetched_attribute
     for row in xml_data['Posts']:
         # PostTypeId == 1 indicates that it's a question
@@ -56,11 +59,11 @@ for directory in os.listdir(BASE_PATH):
 
 # This will be in the format:
 #   (answerer, questioner, {'site': <name_of_the_site>, 'weight': <number_of_answers>}add_edges_from)
-G.add_edges_from([(*k, {'site':k2, 'weight':len(v2)}) for k, v in edges.items() for k2, v2 in v.items()])
+MDG.add_edges_from([(*k, {'site':k2, 'weight':len(v2)}) for k, v in edges.items() for k2, v2 in v.items()])
 
-G.add_nodes_from(nodes)
-for node in G.nodes:
-    G.nodes[node]['questions'] = user_question_counter[node]
+MDG.add_nodes_from(nodes)
+for node in MDG.nodes:
+    MDG.nodes[node]['questions'] = user_question_counter[node]
 
 #plt.figure(1, figsize=(16,16))
 #nx.draw(G, with_labels=True, node_color='skyblue', width=weights)
